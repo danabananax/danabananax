@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danabananax
-- 👀 I’m interested in Jiu-Jitsu and Jazz drummming!
-- 🌱 I’m currently learning frontend based technologies like react, sass, etc
+- 👀 Interested in Jiu-Jitsu and Jazz drummming
+- 🌱 Currently learning frontend-based technologies like React
 - 💞️ I’m looking to collaborate on anything to do with javascript!
 - 📫 How to reach me:  danalark0109@gmail.com
 
